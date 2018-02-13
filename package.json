@@ -1,0 +1,19 @@
+{
+  "name": "folder-to-qr",
+  "version": "0.1.0",
+  "description": "Turn any file in a folder into a QR code",
+  "main": "make-qrs.js",
+  "dependencies": {
+    "qrcode": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "QR",
+    "VCF"
+  ],
+  "author": "Boris van Hoytema",
+  "license": "EUPL-1.2"
+}
